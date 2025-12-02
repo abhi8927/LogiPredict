@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: predictntrack
+    runtime: python  # ✅ this line was missing
+    buildCommand: pip install -r requirements.txt
+    startCommand: python app.py
+    plan: free
