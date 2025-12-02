@@ -1,5 +1,5 @@
 
-# PredictNTrack: Shipment Delay Predictor & Optimizer
+# LogiPredict: Shipment Delay Predictor & Optimizer
 
 PredictNTrack is an intelligent machine learning-powered web application built using Flask that predicts potential shipment delays and suggests optimal shipment actions like mode-switching or route changes. It helps logistics teams minimize disruption by making data-driven shipping decisions.
 
